@@ -15,5 +15,5 @@ eclipse and restart using the command "./eclipse -clean") .
 and then use File -> Import... -> Existing Maven Projects.
 http://stackoverflow.com/questions/4869815/importing-a-maven-project-into-eclipse-from-git (2nd answer in this).
 
-* Watch the following video to learn how to work with Egit on eclipse :
+5. Watch the following video to learn how to work with Egit on eclipse :
 https://www.youtube.com/watch?v=r5C6yXNaSGo
